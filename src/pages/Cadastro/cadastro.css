@@ -1,0 +1,126 @@
+.cadastro {
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+
+    background-color: #121214;
+    color: white;
+}
+
+.cadastro-logo {
+    width: 300px;
+    height: 300px;
+}
+
+.cadastro-right {
+    background-color: #29292e;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 50px;
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+    align-items: center;
+}
+
+.cadastro-right h1{
+    font-family: 'Roboto';
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.cadastro-right h4{
+    font-family: 'Roboto';
+    font-weight: 300;
+    margin-top: 40px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #e1e1e6;
+}
+
+.cadastro-cadastroInputComum {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1A1A1D;
+    border-radius: 5px;
+    padding: 3px;
+    width: 98%;
+    height: 50px;
+}
+
+.cadastro-cadastroInputComum svg {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.cadastro-cadastroInputComum input{
+    background-color: transparent;
+    width: 100%;
+    outline-width: 0;
+    color: #e1e1e6;
+    border: none;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cadastro-cadastroInputPassword {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    color: gray;
+    background-color: #1A1A1D;
+    border-radius: 5px;
+    padding: 3px;
+    width: 98%;
+    height: 50px;
+}
+
+.cadastro-cadastroInputPassword svg {
+    margin-left: 10px;
+    font-size: 25px;
+}
+
+.cadastro-cadastroInputPassword input {
+    background-color: transparent;
+    width: 100%;
+    outline-width: 0;
+    color: #e1e1e6;
+    border: none;
+    font-size: 17px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.cadastro-right button {
+    width: 98%;
+    background-color: #202024;
+    color: #EFF2F5;
+    font-weight: 800;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 18px;
+    margin-top: 5px;
+    border: none;
+
+    outline-width: 0;
+}
+
+.cadastro-right button:hover {
+    background-color: #121214;
+    color: #EFF2F5;
+    cursor: pointer;
+}
+
+.cadastro-eye {
+    align-items: center;
+    justify-content: center;
+    font-size: 30;
+    margin-right: 10px;
+}
