@@ -12,6 +12,4 @@ No inicio vou fazer de forma a fazer funcionar, sem me importar com erros, arqui
 
 Acho que é isso. Vamos ver como vai ficar no futuro...
 
-Por: Davi Augusto
-
-Para: Davi Augusto
+Feito por: Davi Augusto
